@@ -7,6 +7,10 @@ A financial institution seeks to identify behavioral fraud patterns using analyt
 - Measure financial exposure
 - Develop rule-based fraud flags
 
+## Dataset
+🗂 Credit Card Fraud Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Key Findings
 - Fraud peaks between 00:00–04:00
 - High-value transactions (>€500) show elevated fraud rates
